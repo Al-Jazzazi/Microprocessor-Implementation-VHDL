@@ -57,7 +57,7 @@ This program demonstrates basic arithmetic operations and overflow handling.
 - **Video Demonstration**:
 [Watch me](https://drive.google.com/file/d/1jkFzaudPVhIjc8UivboQ-itRqftXlUEm/view?usp=sharing)
 ### Program 2: Sum of Squares
-
+https://drive.google.com/file/d/1xTbhbTaBEFjZjFuANIfDgEEKkpvuSTWR/view?usp=sharing
 This program calculates the sum of the squares from 1 to n using nested loops.
 
 - **Objective**: Calculate the sum of the squares from 1 to n.
@@ -70,7 +70,8 @@ This program calculates the sum of the squares from 1 to n using nested loops.
 
 - **Explanation**:
   The program uses nested loops to calculate the square of each number from n to 1 by repeated addition, then sums these squares. This demonstrates control flow using branch instructions and arithmetic operations.
-
+- **Video Demonstration**:
+[Watch me](https://drive.google.com/file/d/1xTbhbTaBEFjZjFuANIfDgEEKkpvuSTWR/view?usp=sharing)
 ## Usage
 
 1. **Clone the Repository**:
