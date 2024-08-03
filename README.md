@@ -90,8 +90,8 @@ This program calculates the sum of the squares from 1 to n using nested loops.
 
 ## Contributors
 
-- Mohammad Amjad (maa9951)
-- Yousef Al-Jazzazi (ya2225)
+- Mohammad Amjad (maa9951@nyu.edu)
+- Yousef Al-Jazzazi (ya2225@nyu.edu)
 
 ## Acknowledgements
 
