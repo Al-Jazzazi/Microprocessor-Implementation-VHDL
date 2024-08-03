@@ -75,7 +75,7 @@ This program calculates the sum of the squares from 1 to n using nested loops.
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/Microprocessor-Implementation-VHDL.git
+   git clone https://github.com/Al-Jazzazi/Microprocessor-Implementation-VHDL.git
    cd Microprocessor-Implementation-VHDL
    ```
 
